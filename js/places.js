@@ -1,0 +1,22 @@
+places = [
+    { placeName: "San Francisco", description: "TechCrunch Disrupt", latitude: 37.7749, longitude: -122.4194 },
+    { placeName: "Las Vegas", description: "CES - Consumer Electronics Show", latitude: 36.1699, longitude: -115.1398 },
+    { placeName: "Berlin", description: "IFA Berlin - Europe's leading tech expo", latitude: 52.5200, longitude: 13.4050 },
+    { placeName: "Barcelona", description: "Mobile World Congress", latitude: 41.3851, longitude: 2.1734 },
+    { placeName: "Austin", description: "South by Southwest (SXSW)", latitude: 30.2672, longitude: -97.7431 },
+    { placeName: "New York City", description: "New York Tech Meetup", latitude: 40.7128, longitude: -74.0060 },
+    { placeName: "London", description: "London Tech Week", latitude: 51.5074, longitude: -0.1278 },
+    { placeName: "Tokyo", description: "CEATEC Japan", latitude: 35.6895, longitude: 139.6917 },
+    { placeName: "Singapore", description: "Asia Tech x Singapore (ATxSG)", latitude: 1.3521, longitude: 103.8198 },
+    { placeName: "Dubai", description: "GITEX Global - Tech innovation hub", latitude: 25.276987, longitude: 55.296249 },
+    { placeName: "Los Angeles", description: "E3 Expo - Entertainment Technology", latitude: 34.0522, longitude: -118.2437 },
+    { placeName: "Paris", description: "Viva Technology Expo", latitude: 48.8566, longitude: 2.3522 },
+    { placeName: "Hong Kong", description: "RISE Conference - Tech & startups", latitude: 22.3193, longitude: 114.1694 },
+    { placeName: "Toronto", description: "Collision Conference", latitude: 43.651070, longitude: -79.347015 },
+    { placeName: "Beijing", description: "China Hi-Tech Fair", latitude: 39.9042, longitude: 116.4074 },
+    { placeName: "Sydney", description: "Tech23 - Australia's Tech Conference", latitude: -33.8688, longitude: 151.2093 },
+    { placeName: "Tel Aviv", description: "DLD Tel Aviv Innovation Festival", latitude: 32.0853, longitude: 34.7818 },
+    { placeName: "Stockholm", description: "Stockholm Tech Fest", latitude: 59.3293, longitude: 18.0686 },
+    { placeName: "Seoul", description: "World IT Show - Korea's Largest ICT Event", latitude: 37.5665, longitude: 126.9780 },
+    { placeName: "Munich", description: "Bits & Pretzels - Founders Festival", latitude: 48.1351, longitude: 11.5820 }
+];
